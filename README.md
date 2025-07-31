@@ -21,4 +21,7 @@ m6A methylation bias correction via CNN
 4) Train model
 
    sbatch predict_m6A_bias.sh
-    
+
+5) Validate model
+
+   sbatch validate_m6A_bias.sh
